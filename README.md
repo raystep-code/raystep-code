@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raystep-code
-- 👀 I’m interested in ... WASM, Go, Software Architecture, Software Engineering
-- 🌱 I’m currently learning ...WASM, Go
+- 👀 I’m interested in ... LLM use-cases, Go, Software Architecture, Software Engineering
+- 🌱 I’m currently learning ... Qualcomm AI Cloud, Go
 - 💞️ I’m looking to collaborate on ... DevRel
 - 📫 How to reach me ... https://www.linkedin.com/in/raystep/
 
